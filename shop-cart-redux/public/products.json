@@ -1,0 +1,54 @@
+[
+    {
+        "title":"Basket Ball",
+        "price":"160",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Basketball.png",
+        "description":"Original ball for playing Basketball",
+        "id": "1"
+    },
+    {
+        "title":"Tennis Ball",
+        "price":"30",
+        "image":"https://5.imimg.com/data5/FE/SY/MY-51695609/cricket-tennis-balls-500x500.jpg",
+        "description":"Original ball for playing Tennis",
+        "id": "2"
+    },
+    {
+        "title":"Foot Ball",
+        "price":"680",
+        "image":"https://images.ua.prom.st/2244262873_w640_h640_2244262873.jpg",
+        "description":"Original ball for playing Football (Soccer)",
+        "id": "3"
+    },
+    {
+        "title":"Volley Ball",
+        "price":"270",
+        "image": "https://free-sport.com.ua/images/stories/virtuemart/product/mikasa-mva200.jpg",
+        "description":"Original ball for playing Volleyball",
+        "id": "4"
+    },
+    {
+        "title":"Ping-Pong Racket",
+        "price":"1100",
+        "image":"https://besplatka.ua/aws/746x-/27/54/66/07/professionalnaya-raketka-dlya-nastolnogo-tennisa-stiga-photo-8184.jpeg",
+        "description":"Table tennis rackets set",
+        "id": "5"
+
+    },
+    {
+        "title":"Base Ball",
+        "price":"100",
+        "image":"https://images.ua.prom.st/1006656086_w640_h640_myach-bejsbolnyj.jpg",
+        "description":"Original ball for playing American Baseball",
+        "id": "6"
+
+    },
+    {
+        "title":"Boxing gloves",
+        "price":"1800",
+        "image":"https://budopt.ua/image/cache/1200-1200/data/item/brands/venum/perchatki-bokserskie-pu-na-lipuchke-venum-8-12-unciy-bo-5698-w_1.jpg",
+        "description":"Original gloves set for Boxing sport",
+        "id": "7"
+
+    }
+]
